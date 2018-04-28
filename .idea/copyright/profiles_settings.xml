@@ -1,5 +1,5 @@
 <component name="CopyrightManager">
-  <settings>
+  <settings default="Jumble">
     <module2copyright>
       <element module="All" copyright="Jumble" />
     </module2copyright>
